@@ -254,6 +254,7 @@ Some of the suported boards, see yours? Give LiteX-Boards a try!
     ├── terasic_de0nano
     ├── terasic_de10lite
     ├── terasic_de10nano
+    ├── terasic_de10standard
     ├── terasic_de1soc
     ├── terasic_de2_115
     ├── terasic_deca
